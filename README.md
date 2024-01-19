@@ -5,4 +5,5 @@
 hello , my name is *retah*i love cat
 
 here is a picture of my best teacher
-![ a picture ](https://studysmart.studygroup.com/pluginfile.php/770514/mod_label/intro/Paddy.PNG)
+
+![a picture](https://studysmart.studygroup.com/pluginfile.php/770514/mod_label/intro/Paddy.PNG)
