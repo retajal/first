@@ -2,5 +2,5 @@
 ## porgramming one 
 ### smallest tit
 
-hello , my name is **retah** i love cats
+hello , my name is *retah*i love cats
 
