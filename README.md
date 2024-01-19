@@ -1,8 +1,9 @@
+
 # my first read me file
 ## porgramming one 
 ### smallest tit
 
-hello , my name is *retah*i love cat
+hello , my name is *retaj*i love cat
 
 here is a picture of my best teacher
 
@@ -11,3 +12,5 @@ my favourit quote is
 - eggs
 - milk
 - butter
+
+good bay
